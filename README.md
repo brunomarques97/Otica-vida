@@ -6,6 +6,7 @@ https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/loja_oculos/passo1
 #Passos para criaçao do projeto
 
 -[x]criar arquivos do react
+-[x]Modificando titulo e zerando app react
 -[ ]Montar cabeçalho
     -[ ]Definir css da seção
 -[ ]Anexar banner na pagina
