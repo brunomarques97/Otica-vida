@@ -12,7 +12,7 @@ https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/loja_oculos/passo1
     -[ ]Definir css da seção
 -[x]Anexar banner na pagina
     -[ ]Definir css da seção
--[ ]Montar seção dos produtos
+-[x]Montar seção dos produtos
      -[ ]Definir css da seção
 -[ ]Montar seção da empresa
     -[ ]Definir css da seção
