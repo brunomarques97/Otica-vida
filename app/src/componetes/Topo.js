@@ -1,3 +1,4 @@
+import logo from "./imagens/logo.png";
 export default function Topo(){
     return(
         <header>
