@@ -10,7 +10,7 @@ https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/loja_oculos/passo1
 -[x]Separar seção por componentes
 -[x]Montar cabeçalho
     -[ ]Definir css da seção
--[ ]Anexar banner na pagina
+-[x]Anexar banner na pagina
     -[ ]Definir css da seção
 -[ ]Montar seção dos produtos
      -[ ]Definir css da seção
