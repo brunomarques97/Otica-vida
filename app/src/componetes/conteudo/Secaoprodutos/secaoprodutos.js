@@ -6,7 +6,7 @@ export default function produtos(){
     return(
         <div>
             <div>
-               <h3>Nossos produtos</h3>
+               <h2>Nossos produtos</h2>
                <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
                <p>Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado.</p>
             </div> 
