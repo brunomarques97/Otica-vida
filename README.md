@@ -16,6 +16,6 @@ https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/loja_oculos/passo1
      -[ ]Definir css da seção
 -[x]Montar seção da empresa
     -[ ]Definir css da seção
--[ ]Montar seção de contatos
+-[x]Montar seção de contatos
     -[ ]Definir css da seção
 
