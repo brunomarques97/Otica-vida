@@ -3,6 +3,7 @@ import './App.css';
 import Topo from './componetes/Topo';
 import Pagina from './componetes/conteudo/index';
 import Secao from './componetes/conteudo/SecaoCapa/secaocapa';
+import Produtos from './componetes/conteudo/Secaoprodutos/secaoprodutos';
 function App() {
   
   return (
@@ -10,6 +11,7 @@ function App() {
       <Topo/>
       <Pagina/>
       <Secao/>
+      <Produtos/>
     </div>
   );
 }
