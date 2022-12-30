@@ -1,0 +1,17 @@
+
+header div{
+    padding: 10px 1px;
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+header div img{
+    width: 150px;
+}
+header div a{
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+    margin: auto 5px;
+}

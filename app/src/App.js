@@ -11,7 +11,7 @@ import Rodape from './componetes/conteudo/Rodape/Rodape';
 function App() {
   
   return (
-    <div>
+    <div className='limitar'>
       <Topo/>
       <Banner/>
       <Secao/>
