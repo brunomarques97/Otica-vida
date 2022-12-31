@@ -9,9 +9,9 @@ https://www.devmedia.com.br/arquivos/projeto_guiado/front-end/loja_oculos/passo1
 -[x]Modificando titulo e zerando app react
 -[x]Separar seção por componentes
 -[x]Montar cabeçalho
-    -[ ]Definir css da seção cabeçalho
+    -[x]Definir css da seção cabeçalho
 -[x]Anexar banner na pagina
-    -[ ]Definir css da seção pagina
+    -[ ]Definir css da seção banner
 -[x]Montar seção dos produtos
      -[ ]Definir css da seção produtos
 -[x]Montar seção da empresa

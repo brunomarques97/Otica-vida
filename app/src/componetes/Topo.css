@@ -1,9 +1,13 @@
 
-header div{
+header{
     padding: 10px 1px;
-    width: 100%;
+    width: 100%;  
+    display: flexbox;
+}
+header div{
     display: inline-flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
 }
 header div img{
     width: 150px;

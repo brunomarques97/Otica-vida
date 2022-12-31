@@ -8,7 +8,7 @@ import twiter from './imagens/tt.png';
 
 export default function Contatos(){
     return(
-        <div>
+        <div id='Contatos'>
             <div>
                 <div>
                     <h2>Fale conosco</h2>
