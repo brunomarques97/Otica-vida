@@ -1,0 +1,19 @@
+.produtos{
+    width: 100%;
+    padding: 100px 20px;
+}
+.produtos, .card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: grid;
+    justify-items: stretch;
+}
+.produtos .card .card-content{
+    width: calc(50%-15px);
+    padding: 20px 10px;
+    background-color: black;
+
+}
+img{
+    height: 50px;
+}
