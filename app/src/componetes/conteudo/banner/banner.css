@@ -1,19 +1,2 @@
-.banner{
-    height: 80%;
-    background: linear-gradient(47deg, #000113 0%, #04061D 80%, #04061D 100%);
-    background-image: url('imagens/capa.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 80%;
-}
-.capa{
-   height: 100%;
-   width: 100%;
-   padding: 20px;
-   display: flexbox;
-   max-width: 500px;
-   color: #fff;
-   text-align: initial;
-   display: block;
-}
+
 

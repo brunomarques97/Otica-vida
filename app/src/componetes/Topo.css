@@ -1,21 +1,19 @@
-
 header{
     padding: 10px 1px;
     width: 100%;  
-    display: flexbox;
-}
-header div{
-    display: inline-flex;
-    justify-content: space-between;
+  }
+  header div{
+    display: flex;
     align-items: center;
-}
-header div img{
+    justify-content: space-around;
+  }
+  header div img{
     width: 150px;
-}
-header div a{
+  }
+  header div a{
     font-size: 18px;
     color: #000;
     text-decoration: none;
     padding: 5px;
     margin: auto 5px;
-}
+  }

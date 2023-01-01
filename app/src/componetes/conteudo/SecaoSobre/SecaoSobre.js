@@ -1,13 +1,16 @@
 import loja from "./imagens/loja.png";
 import atendimento from "./imagens/atendimento.png";
+
+
+import './sobre.css'
 export default function Sobre(){
     return(
-        <div id='Sobre'>
+        <div id='Sobre' ClassName='limitar'>
             <div>
                 <h2>QUEM SOMOS NÓS?</h2>
                 <p>Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, a Óticas vida iniciou suas atividades focada no atendimento ao público de renda mais baixa, sempre com o objetivo de proporcionar ao cliente bom atendimento, qualidade e preço baixo.</p>
             </div>
-            <div>
+            <div ClassName='card'>
                 <img src={loja} alt="loja" />
                 <div>
                   <h3>Nossas Filiais</h3>

@@ -9,7 +9,7 @@ import oculos04 from './imagens/oculos04.png';
 export default function produtos(){
     return(
         <div >
-            <div  ClassName='produtos'>
+            <div >
                 <div id='produtos' ClassName='limitar'>
                     <h2>Nossos produtos</h2>
                     <p>Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.</p>
@@ -37,7 +37,7 @@ export default function produtos(){
                         <p>R$ 500,00</p>
                     </div>
                 </div>
-                <div>
+                <div ClassName='lista'>
                     <p>Todos os nossos produtos incluem:</p>
                     <ul>
                         <li>Garantia de 1 ano</li>
